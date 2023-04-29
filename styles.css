@@ -1,0 +1,43 @@
+body {
+    font-family: sans-serif;
+    text-align: center;
+    background-color: rgb(196, 221, 219);
+}
+
+.container {
+    background-color: white;
+    border-radius: 20px;
+    padding: 15px;
+    padding-bottom: 30px;
+    margin: 10% auto;
+    text-align: center;
+    width: 300px;
+}
+
+.container img {
+    width: 100%;
+    border-radius: 10px;
+}
+
+.container p {
+    padding: 0 5px;
+
+}
+
+.top-para {
+    font-weight: bold;
+}
+
+.bottom-para {
+    color: rgb(130, 146, 144);
+    font-size: 14px;
+}
+
+.attribution { 
+    font-size: 11px; 
+    text-align: center; 
+}
+    
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+}
